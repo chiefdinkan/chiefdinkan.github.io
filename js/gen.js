@@ -58,6 +58,7 @@ var quotes = [
 "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill. (Sutta Nipata 705)",
 "Do not repay evil with evil or insult with insult. On the contrary, repay evil with blessing, because to this you were called so that you may inherit a blessing. (1 Peter 3:9)"
 ];
+
 // Check if all quotes have been displayed
 if (localStorage.getItem("loadedQuotes")) {
   var loadedQuotes = JSON.parse(localStorage.getItem("loadedQuotes"));

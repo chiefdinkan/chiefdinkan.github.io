@@ -6,10 +6,21 @@
     <description>Recent content on 愛</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 11:13:55 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2023 10:51:29 +0530</lastBuildDate>
     
         <atom:link href="https://chiefdinkan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weirds</title>
+      <link>https://chiefdinkan.github.io/weird/</link>
+      <pubDate>Thu, 02 Mar 2023 10:51:29 +0530</pubDate>
+      
+      <guid>https://chiefdinkan.github.io/weird/</guid>
+      <description></description>
+      
+      
+    </item>
     
     <item>
       <title>Blogs</title>
@@ -17,17 +28,6 @@
       <pubDate>Sat, 28 Jan 2023 11:13:55 +0530</pubDate>
       
       <guid>https://chiefdinkan.github.io/blog/</guid>
-      <description></description>
-      
-      
-    </item>
-    
-    <item>
-      <title>Weirds</title>
-      <link>https://chiefdinkan.github.io/weird/</link>
-      <pubDate>Mon, 05 Dec 2022 23:01:37 +0530</pubDate>
-      
-      <guid>https://chiefdinkan.github.io/weird/</guid>
       <description></description>
       
       
