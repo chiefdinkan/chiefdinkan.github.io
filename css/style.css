@@ -139,14 +139,10 @@ article .footnotes {
 }
 
 pre {
-	font-family: 'Fira Code', 'Nanum Gothic Coding', monospace;
-	background-color: #272822;
+	background-color: #000000;
 	color: #f8f8f2;
 	padding: 15px;
 	overflow: auto;
-
-	tab-size: 2;
-	-moz-tab-size: 2;
 }
 
 p code, li code {

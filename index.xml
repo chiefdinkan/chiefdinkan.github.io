@@ -39,7 +39,25 @@
       <pubDate>Sun, 13 Nov 2022 11:24:29 +0530</pubDate>
       
       <guid>https://chiefdinkan.github.io/about/</guid>
-      <description>&lt;h1 id=&#34;hi&#34;&gt;Hi!&lt;/h1&gt;
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;                   -`                           adharsh@zoidberg
+                  .o+`                          ----------------
+                 `ooo/                          OS: Arch Linux x86_64
+                `+oooo:                         Host: ASUS TUF Gaming F15 FX506HCB_FX506HCB 1.0
+               `+oooooo:                        Kernel: 6.1.6-arch1-g14-1
+             `/:-:++oooo+:                      Packages: 1154 (pacman), 30 (flatpak)
+            `/++++/+++++++:                     Shell: zsh 5.9
+           `/++++++++++++++:                    Resolution: 1920x1080
+          `/+++ooooooooooooo/`                  DE: Hyprland
+         ./ooosssso++osssssso+`                 WM: sway
+        .oossssso-````/ossssss+`                Theme: adw-gtk3 [GTK3]
+       -osssssso.      :ssssssso.               Icons: Colloid-dark [GTK2/3]
+      :osssssss/        osssso+++.              Terminal: tmux
+     /ossssssss/        +ssssooo/-              CPU: 11th Gen Intel i7-11800H (16) @ 4.600GHz
+   `/ossssso+/:-        -:/+osssso+-            GPU: Intel TigerLake-H GT1 [UHD Graphics]
+  `+sso+:-`                 `.-/+oso:           GPU: NVIDIA GeForce RTX 3050 Mobile
+ `++:.                           `-/+/          Memory: 3819MiB / 15721MiB
+ .`                                 `/
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;hiya&#34;&gt;HIYA&lt;/h1&gt;
 &lt;p&gt;My name is &lt;strong&gt;Adharsh&lt;/strong&gt;,
 And This is a website made by &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;.&lt;a href=&#34;https://codeberg.org/dinkan/website&#34;&gt;Source code&lt;/a&gt; of this website is hosted at codeberg&lt;/p&gt;
 &lt;p&gt;You can contact me by &lt;a href=&#34;https://www.instagram.com/va_adharsh/&#34;&gt;instagram&lt;/a&gt; , &lt;a href=&#34;https://github.com/chiefdinkan&#34;&gt;github&lt;/a&gt; , &lt;a href=&#34;mailto:adharshva321@gmail.com&#34;&gt;email&lt;/a&gt;&lt;/p&gt;
